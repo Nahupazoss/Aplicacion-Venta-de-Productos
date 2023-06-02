@@ -1,0 +1,12 @@
+C:\Users\Rodri\source\repos\Cliente\Cliente\bin\Debug\net5.0\Pazos.deps.json
+C:\Users\Rodri\source\repos\Cliente\Cliente\bin\Debug\net5.0\Pazos.dll
+C:\Users\Rodri\source\repos\Cliente\Cliente\bin\Debug\net5.0\ref\Pazos.dll
+C:\Users\Rodri\source\repos\Cliente\Cliente\bin\Debug\net5.0\Pazos.pdb
+C:\Users\Rodri\source\repos\Cliente\Cliente\obj\Debug\net5.0\Pazos.csproj.AssemblyReference.cache
+C:\Users\Rodri\source\repos\Cliente\Cliente\obj\Debug\net5.0\Pazos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodri\source\repos\Cliente\Cliente\obj\Debug\net5.0\Pazos.AssemblyInfoInputs.cache
+C:\Users\Rodri\source\repos\Cliente\Cliente\obj\Debug\net5.0\Pazos.AssemblyInfo.cs
+C:\Users\Rodri\source\repos\Cliente\Cliente\obj\Debug\net5.0\Pazos.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\source\repos\Cliente\Cliente\obj\Debug\net5.0\Pazos.dll
+C:\Users\Rodri\source\repos\Cliente\Cliente\obj\Debug\net5.0\ref\Pazos.dll
+C:\Users\Rodri\source\repos\Cliente\Cliente\obj\Debug\net5.0\Pazos.pdb
